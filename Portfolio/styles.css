@@ -1,0 +1,16 @@
+html{
+    scroll-behaviour: smooth;
+}
+body{
+    background-color:rgb(17, 17, 17);
+}
+img{
+    border-radius: 50%;
+}
+
+.blue{
+    color: rgb(0, 89, 255);
+    }
+.pink{
+        color: pink;
+        }
